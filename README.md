@@ -17,7 +17,7 @@ on DRGs 291-293 (Heart Failure & Shock across severity levels).
 ## Key Findings
 - New Jersey had the highest chargemaster ratio at 7.27, meaning 
   hospitals billed over 7x what Medicare actually paid
-- Maryland was a outlier with a ratio near 1.0
+- Maryland was an outlier with a ratio near 1.0
 - High billing charges showed low correlation with high actual 
   payments 
 - Alaska and Hawaii had the highest actual payments, reflecting 
