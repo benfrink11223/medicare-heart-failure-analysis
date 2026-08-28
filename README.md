@@ -12,7 +12,7 @@ on DRGs 291-293 (Heart Failure & Shock across severity levels).
 
 ## Tools Used
 - BigQuery (SQL analysis)
-- Google Sheets (visualization)
+- Tableau Google Sheets (visualization)
 
 ## Key Findings
 - New Jersey had the highest chargemaster ratio at 7.27, meaning 
@@ -33,7 +33,8 @@ on DRGs 291-293 (Heart Failure & Shock across severity levels).
   - nodrg_inflation_tiered.sql  -- CASE WHEN billing tier classification
 /visuals
   - medicare_chart.png              -- Scatter plot of billed vs paid by state
-  - Interactive Tableau dashboard: https://public.tableau.com/app/profile/benjamin.frink/viz/MedicareHeartFailureCostAnalysisbyState/Dashboard1
+  - Interactive Tableau dashboard      -- Interactive dashboard of Medicare Heart Failure Cost Analysis by State
+  - https://public.tableau.com/app/profile/benjamin.frink/viz/MedicareHeartFailureCostAnalysisbyState/Dashboard1
 
 ## SQL Concepts Demonstrated
 - Aggregations (AVG, SUM, ROUND)
