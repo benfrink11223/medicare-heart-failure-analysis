@@ -12,7 +12,7 @@ on DRGs 291-293 (Heart Failure & Shock across severity levels).
 
 ## Tools Used
 - BigQuery (SQL analysis)
-- Tableau Google Sheets (visualization)
+- Tableau, Google Sheets (visualization)
 
 ## Key Findings
 - New Jersey had the highest chargemaster ratio at 7.27, meaning 
