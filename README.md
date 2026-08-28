@@ -33,7 +33,7 @@ on DRGs 291-293 (Heart Failure & Shock across severity levels).
   - nodrg_inflation_tiered.sql  -- CASE WHEN billing tier classification
 /visuals
   - medicare_chart.png              -- Scatter plot of billed vs paid by state
-  - Interactive Tableau dashboard      -- Linked in About for website, Interactive dashboard of Medicare Heart Failure Cost Analysis by State
+  - Interactive Tableau dashboard      -- Linked in About, Interactive dashboard of Medicare Heart Failure Cost Analysis by State
 
 ## SQL Concepts Demonstrated
 - Aggregations (AVG, SUM, ROUND)
